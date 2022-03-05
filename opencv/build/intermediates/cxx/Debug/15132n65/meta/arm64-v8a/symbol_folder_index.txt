@@ -1,0 +1,1 @@
+C:\Users\Samuel\AndroidStudioProjects\Tflite\opencv\build\intermediates\cxx\Debug\15132n65\obj\arm64-v8a
